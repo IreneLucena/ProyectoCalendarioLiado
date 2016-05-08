@@ -1,0 +1,2 @@
+<h3>Los datos introducidos no son v&aacute;lidos, por lo que no se modificar&aacute; su perfil.</h3>
+<h3>Le rogamos que, por favor, revise sus datos y vuelva a intentarlo <a href="<?=base_url('usuario/perfil')?>">aqu&iacute;</a></h3>
